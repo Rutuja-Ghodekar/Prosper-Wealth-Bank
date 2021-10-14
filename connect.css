@@ -1,0 +1,80 @@
+*{
+  box-sizing: all;
+}
+
+body{
+  
+  background-image:url("contactusphoto.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+*
+{
+margin:0px;
+}
+.nav {
+      height:80px;
+      width:100%;
+      background:green;
+      color:white;
+}
+.nav ul li
+{
+list-style-type:none;
+float:left;
+}
+.nav ul li a
+{
+color:white;
+font-size:40px;
+text-decoration:none;
+padding-left:180px;
+padding-right:180px;
+padding-top:50px;
+
+}
+.nav li a:hover{
+  background-color: rgb(20, 20, 20);
+  color:  white;
+  font-weight: bolder;
+  cursor: pointer;
+}
+.heading{
+	text-align:center;
+	font-family: 'Arial, Helvetica',cursive;
+	font-size:40px;
+}
+.input-box{
+	text-align:left;
+	font-size:30px;
+	height:30px;
+	outline-style:10px solid black;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	background-color:lightblue;
+	
+	
+	
+	
+}
+.box{
+text-align:right;	
+padding-right:150px;
+padding-top:100px;
+
+
+	
+}
+.f1{
+	box-align:right;
+}
+.button{
+	font-size:30px;
+	padding-right:30px;
+	background-color:red;
+}
+.btn{
+	padding-right:120px;
+	
+}
+
